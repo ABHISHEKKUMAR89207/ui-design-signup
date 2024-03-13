@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "75903595278",
+    "project_id": "taskprojects-5c5b7",
+    "storage_bucket": "taskprojects-5c5b7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:75903595278:android:ff73c3f6046f0c4bcf1d5f",
+        "android_client_info": {
+          "package_name": "com.example.fluttertaskapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIAiLSRGx28IpOjTgGZsA-jq_LwRUMybI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
